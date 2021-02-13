@@ -1,0 +1,4 @@
+# Ограничение файлов из Virtual studio
+.vscode 
+# Ограничение файлов из WebShtorm
+.idea
